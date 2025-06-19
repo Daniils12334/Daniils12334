@@ -10,7 +10,13 @@
 <p align="center">
   <img src="https://wakatime.com/badge/user/061dee54-86ce-4c19-aae7-37ac3d2d087d.svg" alt="Total Time Coded - WakaTime" />
 </p>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniils12334&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniils12334&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniils12334&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
+---
 ### 🚀 About Me (the human behind the code)
 
 - 🎓 On a mission this summer: Become the ML & Data Science guru I always dreamed of!
@@ -22,12 +28,12 @@
 
 ### 🛠️ My Toolbox (what I play with)
 
-```text
-🐧 OS:        Arch Linux (because why not?)
-🧠 Tools:     Python, OpenCV, pandas, NumPy, scikit-learn, Pytorch
-📦 Formats:   CSV, real-time image streams, vector embeddings, API fetching, data processing
-🛠️ Experience: Face recognition systems, attendance tracking, and more
-```
+
+-  **🐧 OS:**        Arch Linux (because why not?)
+-  **🧠 Tools:**     Python, OpenCV, pandas, NumPy, scikit-learn, Pytorch
+-  **📦 Formats:**   CSV, real-time image streams, vector embeddings, API fetching, data processing
+-  **🛠️ Experience:** Face recognition systems, attendance tracking, and more
+
 
 ---
 ## 🔥 Featured Projects
@@ -36,16 +42,6 @@
 |----------------|-----------------------------------------------------------|------------------------------------|
 | FaceTrackEd    | Real-time face recognition + attendance tracking system   | Python, InsightFace, OpenCV        |
 | Icon Matcher   | Screen icon detection with fuzzy visual match logic       | OpenCV, Python, PyTorch            |
-
----
-
-📊 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Daniils12334&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniils12334&layout=compact&theme=tokyonight" height="160" /> </p>
-
----
-
-🔥 Streaks & Activity
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniils12334&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniils12334&theme=tokyonight" /> </p>
 
 ---
 
