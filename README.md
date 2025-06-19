@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-ff69b4?style=for-the-badge" />
 </p>
----
-### ⏱️ Total Time Coded (WakaTime)
-
 <p align="center">
   <img src="https://wakatime.com/badge/user/061dee54-86ce-4c19-aae7-37ac3d2d087d.svg" alt="Total Time Coded - WakaTime" />
 </p>
