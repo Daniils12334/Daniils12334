@@ -9,6 +9,11 @@
 </p>
 
 ---
+### ⏱️ Total Time Coded (WakaTime)
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/061dee54-86ce-4c19-aae7-37ac3d2d087d.svg" alt="Total Time Coded - WakaTime" />
+</p>
 
 ### 🚀 About Me (the human behind the code)
 
