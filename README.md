@@ -24,8 +24,8 @@
 
 ```text
 🐧 OS:        Arch Linux (because why not?)
-🧠 Tools:     Python, OpenCV, InsightFace, pandas, NumPy, scikit-learn
-📦 Formats:   CSV, real-time image streams, vector embeddings
+🧠 Tools:     Python, OpenCV, pandas, NumPy, scikit-learn, Pytorch
+📦 Formats:   CSV, real-time image streams, vector embeddings, API fetching, data processing
 🛠️ Experience: Face recognition systems, attendance tracking, and more
 ```
 
@@ -39,12 +39,12 @@
 
 ---
 
-📊 My GitHub Stats (because numbers speak)
+📊 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Daniils12334&show_icons=true&theme=tokyonight" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniils12334&layout=compact&theme=tokyonight" height="160" /> </p>
 
 ---
 
-🔥 Streaks & Activity (keeping the streak alive)
+🔥 Streaks & Activity
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniils12334&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniils12334&theme=tokyonight" /> </p>
 
 ---
