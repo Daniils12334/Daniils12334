@@ -9,12 +9,7 @@
 </p>
 <p align="center">
   <img src="https://wakatime.com/badge/user/061dee54-86ce-4c19-aae7-37ac3d2d087d.svg" alt="Total Time Coded - WakaTime" />
-</p>
-<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniils12334&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniils12334&layout=compact&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniils12334&theme=tokyonight&hide_border=true" height="160" />
-</p>
+
 
 ---
 ### 🚀 About Me (the human behind the code)
