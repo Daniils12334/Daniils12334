@@ -36,7 +36,6 @@
 |----------------|-----------------------------------------------------------|------------------------------------|
 | FaceTrackEd    | Real-time face recognition + attendance tracking system   | Python, InsightFace, OpenCV        |
 | Icon Matcher   | Screen icon detection with fuzzy visual match logic       | OpenCV, Python, PyTorch            |
-| Student Logger | Voting-based face ID system for classroom management      | face_recognition, CSV, CLI         |
 
 ---
 
